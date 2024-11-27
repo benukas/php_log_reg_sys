@@ -50,7 +50,7 @@ This project is a fully functional login and registration system built using PHP
 
 #### Clone the repository or download the project files:
 ```bash
-git clone https://github.com/your-username/formosofficial.git
+git clone https://github.com/benukas/formosofficial.git
 cd formosofficial
 ```
 
@@ -70,7 +70,7 @@ private $dbname = "formosdb";     // Database name
 - Run XAMPP and start Apache and MySQL.
 
 #### Access the application:
-- Navigate to `http://localhost/formosofficial/index.php` in your browser.
+- Navigate to `http://localhost/formosofficial/` in your browser.
 
 ## Usage
 
