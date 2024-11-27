@@ -91,7 +91,19 @@ This project is for portfolio purposes only.
 You are free to view and use this project as a reference, but **modification or redistribution** of this code without permission is strictly prohibited.
 
 ## Screenshots
-(Add screenshots here if you'd like to showcase the interface.)
+
+### Login Page
+![Login Page](images/login.png)
+
+### Admin Dashboard
+![Admin Dashboard](images/admin.png)
+
+### Editing User Information
+![Editing User Information](images/editinguser.png)
+
+### Viewing User Information
+![Viewing User Information](images/viewinginfo.png)
+
 
 ## Technologies Used
 - **Frontend**: HTML, CSS.
