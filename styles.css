@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e8dfd5;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('https://i.pinimg.com/originals/1b/45/63/1b456377a9dce67a7dc3630260aa7572.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    width: 400px;
+    padding: 20px 40px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+    color: #4a4848;
+    font-family: Arial, sans-serif;
+    font-style: italic;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input[type="text"],
+input[type="password"],
+select,
+textarea {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin: 5px 0px;
+    border: 2px solid #615858;
+    border-radius: 8px;
+    font-family: Arial, sans-serif;
+    background-color: #f5f3f0;
+}
+
+input[type="submit"],
+input[type="button"] {
+    width: auto;
+    padding: 12px 24px;
+    margin-top: 10px;
+    background-color: #4a4848;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-family: Arial, sans-serif;
+    transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover,
+input[type="button"]:hover {
+    background-color: #333;
+}
+
+.error,
+.success {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
