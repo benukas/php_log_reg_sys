@@ -77,7 +77,7 @@ private $dbname = "formosdb";     // Database name
 ### Login
 - Use the admin login credentials from the database:
   - **Username**: admin
-  - **Password**: (as hashed in the database).
+  - **Password**: admin (password is hashed).
 
 ### Registration
 - Register as a new user to create a personal account.
