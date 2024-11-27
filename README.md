@@ -48,11 +48,8 @@ This project is a fully functional login and registration system built using PHP
 
 ### 2. Installation
 
-#### Clone the repository or download the project files:
-```bash
-git clone https://github.com/benukas/formosofficial.git
-cd formosofficial
-```
+#### Download the project files trough the initial release section:
+https://github.com/benukas/php_log_reg_sys/releases/tag/v1.0.0
 
 #### Set up your database:
 - Import the provided SQL dump file `formosdb.sql` using phpMyAdmin or MySQL CLI.
